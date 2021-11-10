@@ -1,11 +1,11 @@
 <html>
 <div align="center">
-   <h1>Namaste!  I'm Sahil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hello!  I'm Sahil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 </div>
 </html>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SahilGadge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sahil-gadge-a905881ba/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-gadge-a905881ba/)](https://in.linkedin.com/in/sahil-gadge-a905881ba)
 
 ## ⚡ Technologies
 
