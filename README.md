@@ -5,7 +5,7 @@
 </div>
 </html>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-gadge-a905881ba/)](https://in.linkedin.com/in/sahil-gadge-a905881ba)
+[![Linkedin Badge](https://img.shields.io/badge/-SahilGadge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-gadge-a905881ba/)](https://in.linkedin.com/in/sahil-gadge-a905881ba)
 
 ## ⚡ Technologies
 
